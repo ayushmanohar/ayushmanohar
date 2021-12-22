@@ -1,4 +1,4 @@
-<h1 align="center">Hola Bro... 👋, I'm Ayush Manohar</h1>
+<h1 align="center">Hola  👋, I'm Ayush Manohar</h1>
 <h3 align="center">All Good</h3>
 
 <p align="center"> <img src="https://github.com/ayushmanohar/ayushmanohar/blob/main/animation-cartoons.gif" width="900"/></p>
