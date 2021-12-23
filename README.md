@@ -1,7 +1,7 @@
 <h1 align="center">Hola  👋, I'm Ayush Manohar</h1>
 <h3 align="center">All Good</h3>
 
-<p align="center"> <img src="https://github.com/ayushmanohar/ayushmanohar/blob/main/animation-cartoons.gif" width="900"/></p>
+<p align="center"> <img src="https://github.com/ayushmanohar/ayushmanohar/blob/main/keyboard-thumbs.gif" width="900"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmanohar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmanohar" /> </p>
 
 
